@@ -14,7 +14,7 @@ Para saber sua nota, dentro do terminal, execute o script _./corrigir.sh_.
 
 ## Enunciado
 
-1. Crie expressões regulares para identificar os padrões abaixo no arquivo bruxarias.txt
+### Crie expressões regulares para identificar os padrões abaixo no arquivo bruxarias.txt
        
 Para cada exercício abaixo, salve a saída em um arquivo cujo nome é o ***\[número da questão\]\[letra\].txt*** . Exemplo: questão 1, letra a, o arquivo será 1a.txt
        
