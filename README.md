@@ -64,7 +64,7 @@ Assim como no exercício anterior, salve a saída em um arquivo cujo nome é o *
          
 3. O arquivo _/etc/passwd_ é um arquivo de configuração dentro de sistemas operacionais GNU/Linux que contém as informações de todos os usuários do sistema. Esse arquivo contém as informações de um usuário por linha, com informações separadas pelo caractere ‘:’
        
-       A primeira coluna desse arquivo contém os nomes dos usuários e a terceira coluna contém os números UUID, que identificam o usuário dentro do sistema operacional de fato. Esses UUID, quando são menores do 1000, indicam que o usuário é um usuário de administração - ou seja, são usados pelos programas para implementar permissões de acesso.
+A primeira coluna desse arquivo contém os nomes dos usuários e a terceira coluna contém os números UUID, que identificam o usuário dentro do sistema operacional de fato. Esses UUID, quando são menores do 1000, indicam que o usuário é um usuário de administração - ou seja, são usados pelos programas para implementar permissões de acesso.
        
 Assim como no exercício anterior, salve a saída em um arquivo cujo nome é o ***\[número da questão\]\[letra\].txt*** . Exemplo: questão 3, letra a, o arquivo será **3a.txt**
        
