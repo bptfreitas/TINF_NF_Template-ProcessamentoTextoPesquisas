@@ -14,7 +14,7 @@ Para saber sua nota, dentro do terminal, execute o script _./corrigir.sh_.
 
 ## Enunciado
 
-### Crie expressões regulares para identificar os padrões abaixo no arquivo bruxarias.txt
+1. Crie expressões regulares para identificar os padrões abaixo no arquivo bruxarias.txt
        
 Para cada exercício abaixo, salve a saída em um arquivo cujo nome é o ***\[número da questão\]\[letra\].txt*** . Exemplo: questão 1, letra a, o arquivo será 1a.txt
        
@@ -55,7 +55,7 @@ A não ser que seja explicitado na questão, utilize o parâmetro -o para listar
       
 2. Usando o _find_, crie comandos para realizar as tarefas abaixo:
        
-Assim como no exercício anterior, salve a saída em um arquivo cujo nome é o ***\[número da questão\]\[letra\].txt*** . Exemplo: questão 2, letra a, o arquivo será ***2a.txt***
+Assim como no exercício anterior, salve a saída em um arquivo cujo nome é o ***\[número da questão\]\[letra\].txt***. Exemplo: questão 2, letra a, o arquivo será ***2a.txt***
        
    a. Imprimir todos os diretórios de /etc
    b. Imprimir todos os diretórios de /etc, sem imprimir os seus subdiretórios
@@ -68,7 +68,8 @@ A primeira coluna desse arquivo contém os nomes dos usuários e a terceira colu
        
 Assim como no exercício anterior, salve a saída em um arquivo cujo nome é o ***\[número da questão\]\[letra\].txt*** . Exemplo: questão 3, letra a, o arquivo será **3a.txt**
        
-       Utilizando o comando _awk_:
+Utilizando o comando _awk_:
+
    a. Imprima apenas os nomes dos usuários do sistema.
    b. Imprima os nomes dos usuaŕios entre as linhas 10 e 20
          
